@@ -32,5 +32,3 @@ https://img.shields.io/badge/-ReactJs-61DAFB?logo=react
 ## <span style="color:violet">Contact</span>
 
 **adrianstrozzi@gmail.com**:zap:
-
-[https://github.com/adrianstrozzi](https://github.com/adrianstrozzi)
