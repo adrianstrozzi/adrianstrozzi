@@ -24,7 +24,6 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-TAILWIND-06B6D4?logo=tailwindcss&logoColor=fff)
 
-
 ## <span style="color:violet">Stats</span>
 
 ![Adrian Strozzi GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianstrozzi&show_icons=true&theme=radical)
@@ -34,6 +33,19 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 ## <span style="color:violet">Repos</span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec09GoodReadmeGenerator)](https://github.com/adrianstrozzi/Tec09GoodReadmeGenerator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuiiMaldonado&repo=co2-calculator)](https://github.com/KuiiMaldonado/co2-calculator)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec06WeatherDashboard)](https://github.com/adrianstrozzi/Tec06WeatherDashboard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec04CodeQuiz)](https://github.com/adrianstrozzi/Tec04CodeQuiz)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec02Portfolio)](https://github.com/adrianstrozzi/Tec02Portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=food-shop-react)](https://github.com/adrianstrozzi/food-shop-react)
+
+
+Tec04CodeQuiz
 
 ## <span style="color:violet">Contact</span>
 
