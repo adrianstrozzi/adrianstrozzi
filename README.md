@@ -32,6 +32,8 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 
 ## <span style="color:violet">Repos</span>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec09GoodReadmeGenerator)](https://github.com/adrianstrozzi/Tec09GoodReadmeGenerator)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuiiMaldonado&repo=co2-calculator)](https://github.com/KuiiMaldonado/co2-calculator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec06WeatherDashboard)](https://github.com/adrianstrozzi/Tec06WeatherDashboard)
