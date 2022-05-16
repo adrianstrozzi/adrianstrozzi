@@ -15,7 +15,7 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 
 ## <span style="color:violet">Stack</span>
 
-https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+[![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)]
 https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff
 https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff
 https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=fff
