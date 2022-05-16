@@ -15,13 +15,14 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 
 ## <span style="color:violet">Stack</span>
 
-[HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
 https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff
 https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff
 https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=fff
 https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=fff
 https://img.shields.io/badge/-TAILWIND-06B6D4?logo=tailwindcss&logoColor=fff
 https://img.shields.io/badge/-ReactJS-61DAFB?logo=react
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white
 
 ## <span style="color:violet">Stats</span>
 
