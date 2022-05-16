@@ -32,6 +32,8 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 
 ## <span style="color:violet">Repos</span>
 
+<div style:"display:flex;flex-wrap:wrap">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec09GoodReadmeGenerator)](https://github.com/adrianstrozzi/Tec09GoodReadmeGenerator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KuiiMaldonado&repo=co2-calculator)](https://github.com/KuiiMaldonado/co2-calculator)
@@ -43,6 +45,8 @@ I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front En
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=Tec02Portfolio)](https://github.com/adrianstrozzi/Tec02Portfolio)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianstrozzi&repo=food-shop-react)](https://github.com/adrianstrozzi/food-shop-react)
+  
+</div>
 
 ## <span style="color:violet">Contact</span>
 
