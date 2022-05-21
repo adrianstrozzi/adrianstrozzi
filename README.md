@@ -15,11 +15,7 @@ I’m currently interested in learning more about `UX` and `UI` principles as I 
 
 Other interests include watching films, TV shows and playing videogames. I'm also passionate about `Music Production`. Here are some links to some productions I made while studying my `Masters` in the UK:
 
-[Rafael Barrera - Amser](https://rafaelbarreramusic.bandcamp.com/album/amser)
-
-[Rafael Barrera - Forward Motion](https://rafaelbarreramusic.bandcamp.com/track/forward-motion)
-
-[Joby - Overgrown](https://jobyband.bandcamp.com/track/overgrown)
+[Rafael Barrera - Amser](https://rafaelbarreramusic.bandcamp.com/album/amser) | [Rafael Barrera - Forward Motion](https://rafaelbarreramusic.bandcamp.com/track/forward-motion) | [Joby - Overgrown](https://jobyband.bandcamp.com/track/overgrown)
 
 Bonus link for a song I composed:zap::
 
