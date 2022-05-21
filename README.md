@@ -57,9 +57,9 @@ Bonus link for a song I composed:
   
 ## <span style="color:violet">Contact</span>
 
-:envelope:**adrianstrozzi@gmail.com**
+:envelope: **adrianstrozzi@gmail.com**
 
 ## <span style="color:violet">LinkedIn</span>
 
-:briefcase:[www.linkedin.com/in/adrianstrozzi](www.linkedin.com/in/adrianstrozzi)
+:briefcase: [www.linkedin.com/in/adrianstrozzi](www.linkedin.com/in/adrianstrozzi)
 
