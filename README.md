@@ -5,7 +5,9 @@
 1. [About Me](#About-Me)
 2. [Stack](#Stack)
 3. [Stats](#Stats)
-4. [Contact](#Contact)
+4. [Repos](#Repos)
+5. [Contact](#Contact)
+6. [LinkedIn](#LinkedIn)
 
 ## <span style="color:violet">About Me:</span>
 
@@ -56,3 +58,8 @@ Bonus link for a song I composed:
 ## <span style="color:violet">Contact</span>
 
 **adrianstrozzi@gmail.com**:zap:
+
+## <span style="color:violet">LinkedIn</span>
+
+[www.linkedin.com/in/adrianstrozz](www.linkedin.com/in/adrianstrozz)
+
