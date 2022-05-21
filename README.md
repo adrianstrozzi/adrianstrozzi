@@ -7,11 +7,22 @@
 3. [Stats](#Stats)
 4. [Contact](#Contact)
 
-## <span style="color:violet">About:</span>
+## <span style="color:violet">About Me:</span>
 
-I love programming, music, films, TV shows and videogames.
+`Front End` web developer with a strong background in media studies and media production. I'm currently studying a `Full Stack Bootcamp`.
 
-I'm currently studying a `Full Stack Bootcamp`. My goal is to become a `Front End Developer` with a strong focus on mobile first design and highly polished `UI/UX`.
+I’m currently interested in learning more about `UX` and `UI` principles as I believe this will help to enhance my understanding of `Front End` web development as my goal is to develop responsive and beautiful web pages/apps which present the user with interface elements and interactions that facilitate usability and boost engagement. Every new project is an opportunity to polish my skills, engage with new developers and learn new concepts and technologies. I’m excited to leverage my skills in this ever changing industry and contribute to build the best web experiences.
+
+Other interests include watching films, TV shows and playing videogames. I'm also passionate about `Music Production`. Here are some links to some productions I made while studying my `Masters` in the UK:
+
+[Rafael Barrera - Amser](https://rafaelbarreramusic.bandcamp.com/album/amser)
+[Rafael Barrera - Forward Motion](https://rafaelbarreramusic.bandcamp.com/track/forward-motion)
+[Joby - Overgrown](https://jobyband.bandcamp.com/track/overgrown)
+
+Bonus link for a song I composed:zap::
+
+[Young Revolt - Fake It](https://www.youtube.com/watch?v=W1BDCbvqQw0&ab_channel=YoungRevolt)
+
 
 ## <span style="color:violet">Stack</span>
 
