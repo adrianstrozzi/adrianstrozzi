@@ -17,9 +17,9 @@ Other interests include watching films, TV shows and playing videogames. I'm als
 
 :saxophone:  [Rafael Barrera - Amser](https://rafaelbarreramusic.bandcamp.com/album/amser)  :musical_keyboard:  [Rafael Barrera - Forward Motion](https://rafaelbarreramusic.bandcamp.com/track/forward-motion)  :level_slider:  [Joby - Overgrown](https://jobyband.bandcamp.com/track/overgrown)
 
-Bonus link for a song I composed:musical_score::
+Bonus link for a song I composed:
 
-[Young Revolt - Fake It](https://www.youtube.com/watch?v=W1BDCbvqQw0&ab_channel=YoungRevolt)
+:guitar: [Young Revolt - Fake It](https://www.youtube.com/watch?v=W1BDCbvqQw0&ab_channel=YoungRevolt)
 
 
 ## <span style="color:violet">Stack</span>
