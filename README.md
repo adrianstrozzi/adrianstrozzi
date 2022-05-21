@@ -9,7 +9,7 @@
 5. [Contact](#Contact)
 6. [LinkedIn](#LinkedIn)
 
-## <span style="color:violet">About Me:</span>
+## <span style="color:violet">About Me</span>
 
 `Front End` web developer with a strong background in media studies and media production. I'm currently studying a `Full Stack Bootcamp`. I’m interested in learning more about `UX` and `UI` principles as I believe this will help to enhance my understanding of `Front End` web development as my goal is to develop responsive and beautiful web pages/apps which present the user with interface elements and interactions that facilitate usability and boost engagement. Every new project is an opportunity to polish my skills, engage with new developers and learn new concepts and technologies. I’m excited to leverage my skills in this ever changing industry and contribute to build the best web experiences.
 
