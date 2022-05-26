@@ -28,6 +28,7 @@ Bonus link for a song I composed:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
 ![Node JS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
 ![React JS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=react&logoColor=fff)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
