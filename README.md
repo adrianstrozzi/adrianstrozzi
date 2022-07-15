@@ -33,6 +33,10 @@ Bonus link for a song I composed:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=react&logoColor=fff)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=fff)
+![Mongoose](https://img.shields.io/badge/-Mongoose-02B78F?logo=mongoose&logoColor=fff)
 
 ## <span style="color:violet">Stats</span>
 
