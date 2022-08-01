@@ -1,4 +1,4 @@
-# <span style="color:skyblue">Adrian Strozzi</span>
+# <span style="color:skyblue">Adrian Strozzi - Front End Developer</span>
 
 ## <span style="color:violet">Table of Contents</span>
   
