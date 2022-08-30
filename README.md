@@ -11,7 +11,7 @@
 
 ## <span style="color:violet">About Me</span>
 
-`Front End Web Developer` with a strong background in media studies and media production. I’m interested in learning more about `UX` and `UI` principles as I believe this will help to enhance my understanding of `Front End` web development as my goal is to develop responsive and beautiful web pages/apps which present the user with interface elements and interactions that facilitate usability and boost engagement. Every new project is an opportunity to polish my skills, engage with new developers and learn new concepts and technologies. I’m excited to leverage my skills in this ever changing industry and contribute to build the best web experiences.
+`Front End Web Developer` with a strong background in media studies and media production. Graduated from two `Fullstack Web Development Certificates` at Tec de Monterrey (Trilogy Education Services) and Bedu. I’m interested in learning more about `UX` and `UI` principles as I believe this will help to enhance my understanding of `Front End` web development as my goal is to develop responsive and beautiful web pages/apps which present the user with interface elements and interactions that facilitate usability and boost engagement. Every new project is an opportunity to polish my skills, engage with new developers and learn new concepts and technologies. I’m excited to leverage my skills in this ever changing industry and contribute to build the best web experiences.
 
 Other interests include watching films, TV shows and playing videogames. I'm also passionate about `Music Production`. Here are some links to some productions I made while studying my `Masters` in the UK:
 
